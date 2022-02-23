@@ -8,21 +8,21 @@ body {
 }
 
 main {
-  padding: 36px;
+  padding: 2.25em;
 }
 
 .header {
   display: flex;
   align-items: center;
-  height: 65px;
+  height: 4em;
   background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
   color: white;
-  padding: 20px;
+  padding: 1.25em;
 }
 
 .header--image {
   height: 100%;
-  margin-right: 6px;
+  margin-right: 0.4em;
 }
 
 .header--title {
